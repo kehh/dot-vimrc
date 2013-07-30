@@ -96,6 +96,9 @@ Bundle 'tpope/vim-markdown'
 "------- Go ----------
 Bundle 'jnwhiteh/vim-golang'
 
+"------- CSV ---------
+Bundle 'chrisbra/csv.vim'
+
 "------- FPs ------
 Bundle 'kien/rainbow_parentheses.vim'
 " Bundle 'wlangstroth/vim-racket'
