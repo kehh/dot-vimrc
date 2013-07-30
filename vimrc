@@ -235,7 +235,7 @@ nnoremap ; :
 
 " for macvim
 if has("gui_running")
-    set go=aAce  " remove toolbar
+"    set go=aAce  " remove toolbar
     "set transparency=30
     set guifont=Monaco:h13
     set showtabline=2
