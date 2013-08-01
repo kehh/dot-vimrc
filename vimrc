@@ -233,11 +233,14 @@ nnoremap ; :
 :command Qa qa
 :command QA qa
 
+" copy and paste using the system keyboard
+:set clipboard=unnamedplus
+
 " for macvim
 if has("gui_running")
-"    set go=aAce  " remove toolbar
+    set go=aAce  " remove toolbar
     "set transparency=30
-    "set guifont=Monaco:h13
+    set guifont=Monaco:h13
     set showtabline=2
     set columns=140
     set lines=40
