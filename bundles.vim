@@ -21,7 +21,6 @@ Bundle 'gmarik/vundle'
 " Code Completions
 "------------------
 Bundle 'Shougo/neocomplcache'
-Bundle 'honza/vim-snippets'
 Bundle 'ervandew/supertab'
 Bundle 'honza/vim-snippets'
 Bundle 'mattn/zencoding-vim'
